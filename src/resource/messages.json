@@ -1,0 +1,11 @@
+{
+    "_comment":"Validation messages property file",
+    "msg_1": "Please enter a valid email",
+    "msg_2": "Your email is invalid",
+    "msg_3": "Please enter your password",
+    "msg_4": "Authentication failure! Please create an account",
+    "msg_5":"Logging in User",
+    "msg_6":"Your Password does not match",
+    "msg_7":"Creating User",
+    "msg_8":"Sorry! No record."
+}
